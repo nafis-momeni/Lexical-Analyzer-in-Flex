@@ -1,0 +1,13 @@
+int main()
+{
+    int var = -29.
+    if(var < 10)
+    {
+        var = var * 10.
+        char cfg = "jvj".
+        #comment
+        #! multi
+        line
+        comment !#
+    }
+}
