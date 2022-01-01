@@ -68,7 +68,7 @@
     printf("TOKEN_RBRACK\n");
 }
 "," {
-    printf("TOKEN_?\n");
+    printf("TOKEN_COMMA\n");
 }
 
 "=" {
