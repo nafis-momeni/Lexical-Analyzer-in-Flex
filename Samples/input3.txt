@@ -1,0 +1,16 @@
+int main()
+{
+    char ch= "z".
+	ch="\t".
+	char c[]="ab\td".
+	printf("abc\
+def\
+ghi").
+    int var = 0.
+    for(int i = 0, i < 5, 1)
+    {
+        var = var * 10.
+        
+    }
+    return 0.
+}

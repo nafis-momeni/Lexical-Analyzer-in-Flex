@@ -1,0 +1,16 @@
+int main()
+{
+    int var = 9.
+    while(var > 0)
+    {
+        var = var - 1.
+        
+        if(var == 2){
+            contunie.
+        }
+        elseif {
+            break.
+        }
+    }
+    return 0.
+}
