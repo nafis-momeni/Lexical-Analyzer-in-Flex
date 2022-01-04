@@ -1,13 +1,11 @@
 int main()
 {
-    char ch= "z".
+    char ch= "z" .
 	ch="\t".
-	char c[]="ab\td".
-	printf("abc\
-def\
-ghi").
+	char c="ab
+    d".
     int var = 0.
-    for(int i = 0, i < 5, 1)
+    for(int i = 0, i < 5, --i)
     {
         var = var * 10.
         

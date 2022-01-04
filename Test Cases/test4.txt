@@ -1,7 +1,8 @@
 1.2.345
-1E10.7
+1E10_7
 12abcd
-"ab"
+#"ab"
+#!!abc
 "a
 "
 "ab cd"
@@ -9,7 +10,6 @@
 ""
 "abcd
 "abcd\
-efgh
 ijk"
-/**abc
+efgh
 def
